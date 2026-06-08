@@ -1,0 +1,33 @@
+{
+  "business_profile": {
+    "business_name": "Lakshmi Kirana & General Store",
+    "business_type": "grocery_store",
+    "location": "Mandya, Karnataka",
+    "monthly_revenue": 180000,
+    "monthly_expenses": 140000,
+    "inventory_value": 85000,
+    "employee_count": 3,
+    "rent_per_month": 12000,
+    "existing_loan_emi": 5000,
+    "seasonal_demand_notes": "Diwali and Ugadi are peak seasons. Monsoon months see a 15-20% drop in footfall.",
+    "years_in_business": 7,
+    "avg_daily_customers": 120,
+    "peak_season_months": [10, 11, 3]
+  },
+  "sample_questions": [
+    "Should I increase inventory before festival season?",
+    "What if rainfall is lower this season?",
+    "What if I take a loan of Rs 5 lakhs and open a second outlet?",
+    "Should I hire one more employee before the festive rush?",
+    "What happens to my business if demand drops by 25% next month?"
+  ],
+  "expected_twin_snapshot": {
+    "monthly_profit": 40000,
+    "profit_margin_pct": 22.2,
+    "monthly_cash_flow": 35000,
+    "debt_to_revenue_ratio": 0.033,
+    "inventory_turnover_days": 14.2,
+    "break_even_revenue": 88333,
+    "runway_months": 99
+  }
+}
